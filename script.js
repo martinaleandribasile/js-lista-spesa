@@ -4,8 +4,7 @@ console.log("js ok")
 // sotto commentato l es con l array 
 const containerlist = document.getElementById("containerlist")
 let inputs = document.querySelectorAll(".text-lowercase")
-console.log(inputs)
-console.log(typeof inputs)
+
 const olList = document.createElement("ol")
 
 const buttonSubmit = document.querySelector(".btn")
